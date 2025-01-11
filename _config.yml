@@ -1,8 +1,8 @@
-title: "Jenn's Portfolio"
+title: "Jenny Yu"
 description: "Data Science, Psycholinguistics, and Teaching Adventures"
 baseurl: "" # Keep this blank for GitHub Pages root site
 url: "https://jennsights.github.io"
-theme: minima # Replace with the theme you chose
+theme: minima 
 author:
   name: Jenn
   email: your-email@example.com
