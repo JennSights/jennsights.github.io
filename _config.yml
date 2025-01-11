@@ -1,3 +1,19 @@
-theme: minima
+title: "Jenn's Portfolio"
+description: "Data Science, Psycholinguistics, and Teaching Adventures"
+baseurl: "" # Keep this blank for GitHub Pages root site
+url: "https://jennsights.github.io"
+theme: minima # Replace with the theme you chose
+author:
+  name: Jenn
+  email: your-email@example.com
+  github: https://github.com/jennsights
+  linkedin: https://www.linkedin.com/in/your-profile
 
-About Me
+# Navigation Links
+nav:
+  - name: "About"
+    href: /about/
+  - name: "Projects"
+    href: /projects/
+  - name: "Contact"
+    href: /contact/
